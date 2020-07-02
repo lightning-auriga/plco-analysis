@@ -1,4 +1,4 @@
-AC_INIT([plco-analysis/bgen/testing], [1.0], [lightning.auriga@gmail.com])
+AC_INIT([plco-analysis/relatedness/testing], [1.0], [lightning.auriga@gmail.com])
 AC_CONFIG_AUX_DIR([build-aux])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror])
 AC_CONFIG_FILES([Makefile])
